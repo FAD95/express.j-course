@@ -1,0 +1,19 @@
+{
+  "name": "express.js-course",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de espress.js en Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "course"
+  ],
+  "author": "Fadith Escorcia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
